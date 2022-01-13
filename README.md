@@ -2,7 +2,7 @@
 ## Hey there 👋 I'm Teresa
 
 - 🔭 I’m currently working on ... Front-End Development(JavaScript,React JS) | UI/UX Design
-- 🌱 I’m currently learning ... ReactJS, AnimeJS
+- 🌱 I’m currently learning ... Flutter, AnimeJS
 - 🤔 I’m looking for help with ... 
 - [<img src="https://github.com/tracyber/tracyber/blob/master/uploads/linkedin.png">](https://www.linkedin.com/in/teresa-louis-80974b1a0/)     [<img src="https://github.com/tracyber/tracyber/blob/master/uploads/facebook.png">](https://www.facebook.com/teresa.louis1/) 
 
